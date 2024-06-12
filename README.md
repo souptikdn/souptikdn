@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souptik Debnath</h1>
 <h3 align="center">Minimalism is my forte! Design + Code 🔮</h3>
 
-<a href="https://app.daily.dev/souptikdn"><img src="https://api.daily.dev/devcards/6a029189ab7b47c29a46bea659daf4a7.png?r=xzm" width="400" alt="Souptik Debnath's Dev Card"/></a>
+<a href="https://app.daily.dev/souptikdn"><img src="https://api.daily.dev/devcards/v2/neriiznrVnsS8nfoENt2f.png?r=y6q" width="356" alt="Souptik Debnath's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souptikdn&label=Profile%20views&color=0e75b6&style=flat" alt="souptikdn" /> </p>
 
