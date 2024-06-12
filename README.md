@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/souptikdn" target="blank"><img src="https://img.shields.io/twitter/follow/souptikdn?logo=twitter&style=for-the-badge" alt="souptikdn" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://znap.link/souptikdn](https://znap.link/souptikdn)
+- 👨‍💻 All of my projects are available at [https://fueler.io/souptikdn](https://fueler.io/souptikdn)
 
 - 📝 I regularly write articles on [https://souptikdn.medium.com/](https://souptikdn.medium.com/)
 
 - 📫 How to reach me **souptikdebnath7@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Lets connect</h3>
 <p align="left">
 <a href="https://dev.to/souptikdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="souptikdn" height="30" width="40" /></a>
 <a href="https://twitter.com/souptikdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souptikdn" height="30" width="40" /></a>
