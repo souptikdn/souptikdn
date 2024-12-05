@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/souptikdn" target="blank"><img src="https://img.shields.io/twitter/follow/souptikdn?logo=twitter&style=for-the-badge" alt="souptikdn" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://fueler.io/souptikdn](https://fueler.io/souptikdn)
+- 👨‍💻 My projects are available at [https://fueler.io/souptikdn](https://fueler.io/souptikdn)
 
 - 📝 I regularly write articles on [https://souptikdn.medium.com/](https://souptikdn.medium.com/)
 
-- 📫 How to reach me **souptikdebnath7@gmail.com**
+- 📫 Say hello **souptikdebnath7@gmail.com**
 
 <h3 align="left">Lets connect</h3>
 <p align="left">
